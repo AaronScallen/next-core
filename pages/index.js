@@ -107,3 +107,4 @@ firebase.auth()
     </div>
   )
 }
+// https://colinhacks.com/essays/nextjs-firebase-authentication
